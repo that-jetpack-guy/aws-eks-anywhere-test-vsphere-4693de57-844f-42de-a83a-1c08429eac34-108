@@ -44,7 +44,7 @@ spec:
   managementCluster:
     name: main-i-09e98-e8a1891
   workerNodeGroupConfigurations:
-  - count: 1
+  - count: 3
     machineGroupRef:
       kind: VSphereMachineConfig
       name: main-i-09e98-e8a1891
